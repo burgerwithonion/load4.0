@@ -67,9 +67,12 @@ config.background_map_based = false
 // Multiple images will automatically shuffle between them
 // (Place the image files in the backgrounds/images folder)
 config.background_images = [
-	"background1.jpg",
-	"background2.jpg",
-	"background3.jpg",
+	"1.jpg",
+	"2.jpg",
+	"3.jpg",
+	"4.jpg",
+	"5.jpg",
+	"6.jpg",
 ]
 
 // (Image-background only)
