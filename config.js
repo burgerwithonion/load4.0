@@ -147,7 +147,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to The Boys Netoworks!",
+	"Welcome to The Boys Networks!",
 	"Enjoy!",
 ]
 
