@@ -25,7 +25,7 @@ config.logo_use_image = true
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "The Boys Networks"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -41,7 +41,7 @@ config.logo_show_info = true
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -100,11 +100,11 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
-config.music_show = true
+config.music_show = false
 
 // Music playlist
 // Add as many youtube ids/urls or audio files you want
@@ -147,8 +147,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
-	"Customize your loading screen by editing the config file",
+	"Welcome to The Boys Netoworks!",
 	"Enjoy!",
 ]
 
